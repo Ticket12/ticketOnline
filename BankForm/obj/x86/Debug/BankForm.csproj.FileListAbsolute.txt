@@ -1,0 +1,7 @@
+F:\IS\msys64\home\Arm\cpp\vs\BankForm\BankForm\bin\Debug\BankForm.exe
+F:\IS\msys64\home\Arm\cpp\vs\BankForm\BankForm\bin\Debug\BankForm.pdb
+F:\IS\msys64\home\Arm\cpp\vs\BankForm\BankForm\obj\x86\Debug\BankForm.Form1.resources
+F:\IS\msys64\home\Arm\cpp\vs\BankForm\BankForm\obj\x86\Debug\BankForm.Properties.Resources.resources
+F:\IS\msys64\home\Arm\cpp\vs\BankForm\BankForm\obj\x86\Debug\BankForm.csproj.GenerateResource.Cache
+F:\IS\msys64\home\Arm\cpp\vs\BankForm\BankForm\obj\x86\Debug\BankForm.exe
+F:\IS\msys64\home\Arm\cpp\vs\BankForm\BankForm\obj\x86\Debug\BankForm.pdb
